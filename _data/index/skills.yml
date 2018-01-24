@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Superset, Hue, JavaScript, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Superset, Hue, JavaScript, Python, Sleeping
+percentage: 65, 60, 70, 90, 100
